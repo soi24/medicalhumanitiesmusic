@@ -2,8 +2,9 @@
 Year: 2022
 Genre: Drama
 Creator: Lee Jae Gyu
-Disease : metal disease
-MUsic : Gymnopédie No.1
+Disease : depression 
+ICD : 6A7Z
+Music : Gymnopédie No.1
 Composer: Erik Satie
 Type: Classical
 ---
