@@ -2,7 +2,7 @@
 Year: 2022
 Genre: Drama
 Creator: Lee Jae Gyu
-Disease : depression 
+Disease : Depression 
 ICD : 6A7Z
 Music : Gymnopédie No.1
 Composer: Erik Satie
